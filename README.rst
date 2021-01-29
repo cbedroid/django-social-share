@@ -80,6 +80,8 @@ Usage
 
 ``<link_text>`` is also optional. It defines the text used for the ``a`` element. Defaults to 'Post to Facebook' and 'Post to Twitter'.
 
+``<link_class>`` is also optional. It defines the class name for the ``a`` element.
+
 ``<subject>`` may contain any valid Django Template code.
 
 ::
